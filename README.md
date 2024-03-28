@@ -1,4 +1,5 @@
-### Hi there 👋
+### नमस्कार! 🙏🏼
+My name is Vedant वेदांत Dinkar दिनकर.
 
 <!--
 **Vedant-Dinkar/Vedant-Dinkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
